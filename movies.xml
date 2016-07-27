@@ -1,0 +1,82 @@
+<Programmes>
+	<Programme id="1">
+		<name>The Revenant</name>
+		<description>Leonardo DiCaprio is attacked by a crazy bear in this new impressive TV spot of The Revenant, the upcoming epic adventure drama movie directed by Alejandro G. Inarritu and starring Leonardo DiCaprio</description>
+		<rating_score>24</rating_score>
+		<rating_submitted>5</rating_submitted>
+		<image_path>images/the_revenant.jpg</image_path>
+	</Programme>
+
+	<Programme id="2">
+		<name>Ride Along 2</name>
+		<description>As his wedding day approaches, Ben heads to Miami with his soon-to-be brother-in-law James to bring down a drug dealer who is supplying the dealers of Atlanta with product.</description>
+		<rating_score>32</rating_score>
+		<rating_submitted>10</rating_submitted>
+		<image_path>images/ride_along.jpg</image_path>
+	</Programme>
+
+	<Programme id="3">
+		<name>Star Wars: Episode VII</name>
+		<description>Three decades after the defeat of the Galactic Empire, a new threat arises. The First Order attempts to rule the galaxy and only a ragtag group of heroes can stop them, along with the help of the Resistance.</description>
+		<rating_score>23</rating_score>
+		<rating_submitted>6</rating_submitted>
+		<image_path>images/star_wars.jpg</image_path>
+	</Programme>
+	
+	<Programme id="4">
+		<name>The Big Short</name>
+		<description>Four denizens in the world of high-finance predict the credit and housing bubble collapse of the mid-2000s, and decide to take on the big banks for their greed and lack of foresight.</description>
+		<rating_score>12</rating_score>
+		<rating_submitted>4</rating_submitted>
+		<image_path>images/big_short.jpg</image_path>
+	</Programme>
+
+	<Programme id="5">
+		<name>Creed</name>
+		<description>The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Adonis Johnson, the son of his late friend and former rival Apollo Creed.</description>
+		<rating_score>23</rating_score>
+		<rating_submitted>8</rating_submitted>
+		<image_path>images/creed.jpg</image_path>
+	</Programme>
+
+	<Programme id="6">
+		<name>The 5th Wave</name>
+		<description>Four waves of increasingly deadly alien attacks have left most of Earth decimated. Cassie is on the run, desperately trying to save her younger brother.</description>
+		<rating_score>24</rating_score>
+		<rating_submitted>5</rating_submitted>
+		<image_path>images/5thwave.jpg</image_path>
+	</Programme>
+
+	<Programme id="7">
+		<name>Daddys Home</name>
+		<description>Stepdad, Brad Whitaker, is a radio host trying to get his stepchildren to love him and call him Dad. But his plans turn upside down when the biological father, Dusty Mayron, returns.</description>
+		<rating_score>14</rating_score>
+		<rating_submitted>3</rating_submitted>
+		<image_path>images/daddyshome.jpg</image_path>
+	</Programme>
+
+	<Programme id="8">
+		<name>Room</name>
+		<description>After five-year-old Jack and his mother escape from the enclosed surroundings that Jack has known his entire life, the boy makes a thrilling discovery.</description>
+		<rating_score>34</rating_score>
+		<rating_submitted>12</rating_submitted>
+		<image_path>images/room.jpg</image_path>
+	</Programme>
+
+	<Programme id="9">
+		<name>The Hateful Eight</name>
+		<description>In the dead of a Wyoming winter, a bounty hunter and his prisoner find shelter in a cabin currently inhabited by a collection of nefarious characters.</description>
+		<rating_score>23</rating_score>
+		<rating_submitted>6</rating_submitted>
+		<image_path>images/hateful_eight.jpg</image_path>
+	</Programme>
+
+	<Programme id="10">>
+		<name>The Danish Girl</name>
+		<description>A fictitious love story loosely inspired by the lives of Danish artists Lili Elbe and Gerda Wegener. Lili and Gerda s marriage and work evolve as they navigate Lili s groundbreaking journey as a transgender pioneer.</description>
+		<rating_score>34</rating_score>
+		<rating_submitted>12</rating_submitted>
+		<image_path>images/danish.jpg</image_path>
+	</Programme>
+
+</Programmes>
